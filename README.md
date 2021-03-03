@@ -26,6 +26,9 @@ An option is an agreement between a buyer and seller. The agreement has an: expi
 
 ## Basics
 
+- [r/options](https://www.reddit.com/r/options/) - Great resource to learn options 
+
+
 <a name="oTokens" />
 
 ## oTokens
