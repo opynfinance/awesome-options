@@ -52,10 +52,17 @@ An option is an agreement between a buyer and seller. The agreement has an: expi
 
 ## Option Protocols
 
+- [Opyn](https://opyn.co/) ([source code](https://github.com/opynfinance), [how it works](https://opyn.gitbook.io/opyn/faq)) - 0x-integrated protocol for decentralized Options 
+- [Potion](https://potion.fi/#/) ([source code](https://github.com/potion-labs), [Medium](https://medium.com/@PotionLabs)) - Options with utilization based pricing based off of Kelly Criterion 
+- [Hegic](https://www.hegic.co/) ([source code](https://github.com/hegic), [white paper](https://github.com/hegic/whitepaper/blob/master/Hegic%20Protocol%20Whitepaper.pdf))
+- [Siren Markets](https://sirenmarkets.com/) ([source code](https://github.com/sirenmarkets/), [Medium](https://sirenmarkets.medium.com/)) 
+
+
 <a name="derivative-protocols" />
 
 ## Derivative Protocols 
 
+- [Oiler](oiler.network), [white paper](https://docs.oiler.network)) - Blockchain native derivatives hedging gas and network shocks 
 - [bZx](https://b0x.network) ([source code](https://github.com/bZxNetwork), [white paper](https://b0x.network/pdfs/bZx_white_paper.pdf)) - 0x-integrated protocol for decentralized, peer-to-peer margin funding and trading
 - [Daxia](https://www.daxia.us) ([source code](https://github.com/DecentralizedDerivatives), [white paper](https://github.com/DecentralizedDerivatives/DRCT_standard/blob/master/InDepthOverview.md)) - Tokenized derivatives protocol
 - [dYdX](https://dydx.exchange) ([source code](https://github.com/dydxprotocol/protocol_v1), [white paper](https://whitepaper.dydx.exchange/)) - Margin-trading and options protocols
