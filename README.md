@@ -48,7 +48,11 @@ An option is an agreement between a buyer and seller. The agreement has an: expi
 
 ## Tutorials
 
- - [Genesis Volatility](https://www.youtube.com/channel/UCW4nDdo46EjaDEd5R2RrkEw) - Videos explaining complex option topics in a simple way 
+- [Genesis Volatility](https://www.youtube.com/channel/UCW4nDdo46EjaDEd5R2RrkEw) - Videos explaining complex option topics in a simple way 
+- [Opyn Tutorial](https://www.youtube.com/watch?v=wr4jaCG8zmk) - Community member explaining Opyn!
+- [Derivatives in DeFi Explained](https://www.youtube.com/watch?v=QxoqPZRw9y4) - For DeFi explaining: What are derivatives? Why are they important?
+- [Economics of Opyn Explained](https://www.youtube.com/watch?v=KtYLCLp6i6o) - Economics Design on Economics of Opyn
+
 
 <a name="option-protocols" />
 
