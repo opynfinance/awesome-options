@@ -89,6 +89,11 @@ An option is an agreement between a buyer and seller. The agreement has an: expi
 
 ## Community
 
+- [Opyn Discord](https://discord.com/invite/2NFdXaE)
+- [Opyn Twitter](https://twitter.com/opyn_)
+
 <a name="developer" />
+
+
 
 ## Developer
