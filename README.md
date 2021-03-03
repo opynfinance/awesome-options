@@ -89,6 +89,8 @@ An option is an agreement between a buyer and seller. The agreement has an: expi
 ## Analytics 
 
 - [0xTracker](https://0xtracker.com) - 0x protocol trade explorer and decentralised ERC-20 token price index
+- [Uniswap ETH Liquidity](https://mikemcdonald.github.io/uniswap/eth-token-liquidity) - Chart of Uniswap's ETH liquidity by token
+- [DeFI Pulse](https://defipulse.com/) - Dashboard with info about locked amount in USD
 
 <a name="community" />
 
