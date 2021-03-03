@@ -1,4 +1,4 @@
-# Awesome Opyn Options 
+# Awesome Opyn
 
 Curated list of resources for Opyn, to learn options, and the tools to do it!
 
