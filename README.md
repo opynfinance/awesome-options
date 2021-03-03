@@ -13,7 +13,7 @@ An option is an agreement between a buyer and seller. The agreement has an: expi
 - [oTokens](#oTokens)
 - [FAQs](#faqs)
 - [Media Coverage](#media-coverage)
-- [Beginner Guides](#beguinner-guides)
+- [Beginner Guides](#beginner-guides)
 - [Tutorials](#tutorials)
 - [Option Protocols](#option-protocols)
 - [Derivative Protocols/Prediction Markets](#derivative-protocols)
@@ -22,8 +22,24 @@ An option is an agreement between a buyer and seller. The agreement has an: expi
 - [Community](#community)
 - [Developer](#developer)
 
+<a name="basics" />
+
+## Basics
+
+<a name="oTokens" />
+
+## oTokens
+
 <a name="faqs" />
 
 ## FAQs
 
--[Glossary of Terms](https://medium.com/opyn/a-beginners-guide-to-defi-options-opyn-v2-4d64f91acc84#bca3)
+- [Glossary of Terms](https://medium.com/opyn/a-beginners-guide-to-defi-options-opyn-v2-4d64f91acc84#bca3)
+
+<a name="media-coverage" />
+
+## Media Coverage 
+
+<a name="faqs" />
+
+## FAQs
