@@ -22,4 +22,6 @@ An option is an agreement between a buyer and seller. The agreement has an: expi
 - [Community](#community)
 - [Developer](#developer)
 
+## FAQs
 
+-[Glossary of Terms_](https://medium.com/opyn/a-beginners-guide-to-defi-options-opyn-v2-4d64f91acc84#bca3)
