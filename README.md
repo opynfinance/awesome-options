@@ -15,6 +15,7 @@ An option is an agreement between a buyer and seller. The agreement has an: expi
 - [Media Coverage](#media-coverage)
 - [Beginner Guides](#beginner-guides)
 - [Tutorials](#tutorials)
+- [Video Tutorials](#video-tutorials) 
 - [Option Protocols](#option-protocols)
 - [Derivative Protocols/Prediction Markets](#derivative-protocols)
 - [Applications/Tools](#applications-tools)
@@ -55,6 +56,13 @@ An option is an agreement between a buyer and seller. The agreement has an: expi
 - [Opyn Tutorial](https://www.youtube.com/watch?v=wr4jaCG8zmk) - Community member explaining Opyn!
 - [Derivatives in DeFi Explained](https://www.youtube.com/watch?v=QxoqPZRw9y4) - For DeFi explaining: What are derivatives? Why are they important?
 - [Economics of Opyn Explained](https://www.youtube.com/watch?v=KtYLCLp6i6o) - Economics Design on Economics of Opyn
+
+
+<a name="video-tutorials" />
+
+## Video Tutorials
+
+- [Options Basics](https://www.youtube.com/watch?v=w6DZn6BRsxo&feature=emb_imp_woyt) - Video explaining option basics in a simple way 
 
 
 <a name="option-protocols" />
