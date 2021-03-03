@@ -56,6 +56,14 @@ An option is an agreement between a buyer and seller. The agreement has an: expi
 
 ## Derivative Protocols 
 
+- [bZx](https://b0x.network) ([source code](https://github.com/bZxNetwork), [white paper](https://b0x.network/pdfs/bZx_white_paper.pdf)) - 0x-integrated protocol for decentralized, peer-to-peer margin funding and trading
+- [Daxia](https://www.daxia.us) ([source code](https://github.com/DecentralizedDerivatives), [white paper](https://github.com/DecentralizedDerivatives/DRCT_standard/blob/master/InDepthOverview.md)) - Tokenized derivatives protocol
+- [dYdX](https://dydx.exchange) ([source code](https://github.com/dydxprotocol/protocol_v1), [white paper](https://whitepaper.dydx.exchange/)) - Margin-trading and options protocols
+- [Market](https://marketprotocol.io) ([source code](https://github.com/MARKETProtocol), [white paper](https://marketprotocol.io/assets/MARKET_Protocol-Whitepaper.pdf)) - Protocol for structuring peer-to-peer agreements that settle in the future based on the price of a reference asset
+- [UMA](https://umaproject.org) ([source code](https://github.com/umaprotocol), [white paper](https://umaproject.org/UMA-whitepaper.pdf)) - Protocol that allows any two counterparties to design and create their own financial contracts that are secured with economic incentives alone, making them self-enforcing and "universally accessible" 
+- [Veil](https://veil.co) ([source code](https://github.com/veilco)) - Peer-to-peer prediction market and derivatives platform built on top of Augur, 0x, and Ethereum
+
+
 <a name="applications-tools" />
 
 ## Applications/Tools 
