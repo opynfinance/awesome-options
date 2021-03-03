@@ -88,6 +88,8 @@ An option is an agreement between a buyer and seller. The agreement has an: expi
 
 ## Analytics 
 
+- [0xTracker](https://0xtracker.com) - 0x protocol trade explorer and decentralised ERC-20 token price index
+
 <a name="community" />
 
 ## Community
