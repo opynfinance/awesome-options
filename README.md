@@ -50,6 +50,11 @@ An option is an agreement between a buyer and seller. The agreement has an: expi
 
 ## Beginner Guides
 
+- [Coindesk on Opyn](https://www.coindesk.com/tag/opyn) - Coindesk archives 
+- [Opyn and Paradigm](https://www.theblockcrypto.com/linked/93603/opyn-defi-options-series-a-paradigm) - Opyn Series A 
+
+
+
 <a name="tutorials" />
 
 ## Tutorials
