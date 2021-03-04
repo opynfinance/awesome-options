@@ -13,7 +13,6 @@ An option is an agreement between a buyer and seller. The agreement has an: expi
 - [oTokens](#oTokens)
 - [FAQs](#faqs)
 - [Media Coverage](#media-coverage)
-- [Beginner Guides](#beginner-guides)
 - [Tutorials](#tutorials)
 - [Video Tutorials](#video-tutorials) 
 - [Option Protocols](#option-protocols)
@@ -46,14 +45,9 @@ An option is an agreement between a buyer and seller. The agreement has an: expi
 
 ## Media Coverage 
 
-<a name="beginner-guides" />
-
-## Beginner Guides
 
 - [Coindesk on Opyn](https://www.coindesk.com/tag/opyn) - Coindesk archives 
 - [Opyn and Paradigm](https://www.theblockcrypto.com/linked/93603/opyn-defi-options-series-a-paradigm) - Opyn Series A 
-
-
 
 <a name="tutorials" />
 
