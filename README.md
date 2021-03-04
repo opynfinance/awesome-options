@@ -35,6 +35,8 @@ An option is an agreement between a buyer and seller. The agreement has an: expi
 
 ## oTokens
 
+- [Pools.FYI](https://pools.fyi/#/returns/0x5734a78b1985b47df3fbf1736c278f57c2c30983) - Option Pools on Uniswap
+
 <a name="faqs" />
 
 ## FAQs
