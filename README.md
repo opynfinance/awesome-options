@@ -48,6 +48,9 @@ An option is an agreement between a buyer and seller. The agreement has an: expi
 
 - [Coindesk on Opyn](https://www.coindesk.com/tag/opyn) - Coindesk archives 
 - [Opyn and Paradigm](https://www.theblockcrypto.com/linked/93603/opyn-defi-options-series-a-paradigm) - Opyn Series A 
+- [Decrypt and Opyn](https://decrypt.co/8681/opyn-now-lets-trade-ethereum-six) - Opyn and leverage
+
+
 
 <a name="tutorials" />
 
@@ -90,11 +93,20 @@ An option is an agreement between a buyer and seller. The agreement has an: expi
 - [Market](https://marketprotocol.io) ([source code](https://github.com/MARKETProtocol), [white paper](https://marketprotocol.io/assets/MARKET_Protocol-Whitepaper.pdf)) - Protocol for structuring peer-to-peer agreements that settle in the future based on the price of a reference asset
 - [UMA](https://umaproject.org) ([source code](https://github.com/umaprotocol), [white paper](https://umaproject.org/UMA-whitepaper.pdf)) - Protocol that allows any two counterparties to design and create their own financial contracts that are secured with economic incentives alone, making them self-enforcing and "universally accessible" 
 - [Veil](https://veil.co) ([source code](https://github.com/veilco)) - Peer-to-peer prediction market and derivatives platform built on top of Augur, 0x, and Ethereum
+- [Futureswap](https://www.futureswap.com/) 
+
 
 
 <a name="applications-tools" />
 
 ## Applications/Tools 
+
+- [DeFI List](https://defipulse.com/defi-list/) - DeFi List 
+- [Cryptocompare](https://www.cryptocompare.com/) - Cryptocompare to check derivative volumes 
+
+
+
+
 
 <a name="analytics" />
 
