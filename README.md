@@ -28,6 +28,8 @@ An option is an agreement between a buyer and seller. The agreement has an: expi
 ## Basics
 
 - [r/options](https://www.reddit.com/r/options/) - Great resource to learn options 
+- [Basics Options Trading](https://blog.quantinsti.com/basics-options-trading/) - Basics of Options Trading 
+- [Trading Options Basics pt 1](https://www.reddit.com/r/thewallstreet/comments/6vor4u/trading_options_basics_part_1/) - r/wallstreet basics of Options Trading 
 
 
 <a name="oTokens" />
@@ -52,6 +54,8 @@ An option is an agreement between a buyer and seller. The agreement has an: expi
 
 ## Tutorials
 
+- [Opyn Cover Tutorial](https://defirate.com/opyn-cover-tutorial/) - Defi Rate Opyn ETH Puts 
+- [Opyn Cover Tutorial](https://defirate.com/opyn-cover-tutorial/) - Defi Rate Opyn ETH Puts 
 
 
 
